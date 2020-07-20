@@ -2,8 +2,8 @@ title: 孙浩 # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   齐鲁师范云计算18级在读<br/>
   编程<br/>
-  爱好arduino <br/>
-  phoenix<br/>
+  arduino <br/>
+  画画<br/>
   <a href="2535640842@qq.com">
     <i class="fas fa-envelope"></i>
   </a>
@@ -370,7 +370,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     document.getElementById("run_time_hour"),
                     document.getElementById("run_time_minute"),
                     document.getElementById("run_time_second"),
-                    "19/07/2020 11:03:56")// 这是我第一篇CSDN博客的时间
+                    "07/07/2020 11:03:56")// 这是我第一篇CSDN博客的时间
                   </script>
                 </div>
               - | # 不蒜子页面统计，看不懂可不改
