@@ -26,9 +26,9 @@
 齐鲁师范学院（2018-）
 
 - 兰陵县第四中学（2015-2018）
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+  - 
+  - 
+  - 
 
 <!-- .slide -->
 
